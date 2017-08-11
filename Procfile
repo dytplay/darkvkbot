@@ -1,0 +1,1 @@
+worker: python vbot.py // vbot.py
